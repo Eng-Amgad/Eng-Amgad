@@ -65,3 +65,17 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 [<img src="https://img.shields.io/badge/twitter_X-%231DA1F2.svg?&style=for-the-badge&logo=twitter_X&logoColor=white&color=black" />](https://x.com/amgdalshokhadh?t=hbXJdWFpp9cfeYCXNQKQjQ&s=35) 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/amgad_mo77?igsh=MzNlNGNkZWQ4Mg==)
 </p>
+
+## Certificates
+
+### 1. Certificate of Experience
+**Certificate of experience from the Yemeni Engineers Syndicate in engineering supervision and preparing engineers for the job market.**
+
+![Certificate of the Yemeni Engineers Syndicate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Certificate%20of%20the%20Yemeni%20Engineers%20Syndicate%20.jpg)
+
+---
+
+### 2. Certificate of Training
+**Certificate of training from Malak Water Factory, showcasing hands-on experience with PLCs and industrial automation.**
+
+![Malak Factory Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Malak%20factory%20certificate%20.jpg)

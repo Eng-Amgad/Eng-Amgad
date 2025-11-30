@@ -1,7 +1,14 @@
-### Hi there, I'm [Amgad Al-Shakdha](https://durgeshsamariya.github.io) 👋
+<div align="center">
 
+![Profile Picture](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Gemini_Generated_Image_d8cbr9d8cbr9d8cb.png)
+
+### M\ Amgad Al_Shakdha 
+
+---
+</div>
 I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](http://www.tu.edu.ye/), Yemen. I have experience in designing integrated systems and addressing engineering challenges while utilizing advanced technologies to create efficient and innovative solutions.
 
+---
 **My Research Interest**:
 - Embedded Systems
 - Artificial Intelligence (AI)
@@ -9,16 +16,16 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 - Internet of Things (IoT)
 - Sensors
 
+---
  **open to**:
-
 - any collaboration work,
 - Mechatronics-related projects (design, development, or research).  
 - Engaging in research and development work.
 - Assisting in providing consultancy services.
 - Serving as a reviewer or member for journals or conferences related to robotics, automation, or IoT systems.
 
+---
 ## Skills:
-
 #### Languages:
 ![arabic](https://img.shields.io/badge/arabic-ED8B00?style=for-the-badge&logo=arabic&logoColor=white)&nbsp;
 ![english](https://img.shields.io/badge/english-3776AB?style=for-the-badge&logo=english&logoColor=white)&nbsp;
@@ -56,6 +63,8 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+---
+---
 ## Connect with me:
 
 <p align = "center">
@@ -66,6 +75,8 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/amgad_mo77?igsh=MzNlNGNkZWQ4Mg==)
 </p>
 
+---
+---
 ## Certificates
 
 ### 1. Certificate of Experience

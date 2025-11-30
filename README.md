@@ -96,14 +96,14 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 ### 3. Certificate of Appreciation
 **Certificate of participation and appreciation for active involvement and contributions in professional engineering events.**
 
-![Certificate of Participation](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Certificate%20of%20Participation%202.pdf)
+![Certificate of Participation](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Certificate%20of%20Participation%202_251201_000856.jpg)
 
 ---
 
 ### 4. English Language Certificate
 **Official certification demonstrating proficiency in English language skills for professional and technical communication.**
 
-![English Language Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/English%20language%20certificate.pdf)
+![English Language Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/English%20language%20certificate_251201_000927.jpg)
 
 ---
 

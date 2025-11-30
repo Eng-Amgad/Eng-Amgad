@@ -79,14 +79,35 @@ I hold a Bachelor's degree in Mechatronics Engineering from [Dhamar University](
 ---
 ## Certificates
 
-### 1. Certificate of Experience
+### 1. University Graduation Certificate
+**Bachelor's Degree in Engineering, marking the successful completion of academic studies and foundational engineering education.**
+
+![University Graduation Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/University%20graduation%20certificate_1.jpg)
+
+---
+
+### 2. Certificate of Experience
 **Certificate of experience from the Yemeni Engineers Syndicate in engineering supervision and preparing engineers for the job market.**
 
 ![Certificate of the Yemeni Engineers Syndicate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Certificate%20of%20the%20Yemeni%20Engineers%20Syndicate%20.jpg)
 
 ---
 
-### 2. Certificate of Training
+### 3. Certificate of Appreciation
+**Certificate of participation and appreciation for active involvement and contributions in professional engineering events.**
+
+![Certificate of Participation](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Certificate%20of%20Participation%202.pdf)
+
+---
+
+### 4. English Language Certificate
+**Official certification demonstrating proficiency in English language skills for professional and technical communication.**
+
+![English Language Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/English%20language%20certificate.pdf)
+
+---
+
+### 5. Certificate of Training
 **Certificate of training from Malak Water Factory, showcasing hands-on experience with PLCs and industrial automation.**
 
 ![Malak Factory Certificate](https://github.com/Eng-Amgad/Eng-Amgad/blob/main/Malak%20factory%20certificate%20.jpg)
